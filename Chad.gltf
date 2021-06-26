@@ -1,0 +1,105 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cube",
+            "translation" : [
+                0,
+                1.3275669813156128,
+                0
+            ]
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 3252,
+            "max" : [
+                0.8228347301483154,
+                0.9636709094047546,
+                0.4961808919906616
+            ],
+            "min" : [
+                -0.8228347301483154,
+                -1.3286770582199097,
+                -0.8228347301483154
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 3252,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 3252,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 5172,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 39024,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 39024,
+            "byteOffset" : 39024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 26016,
+            "byteOffset" : 78048
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10344,
+            "byteOffset" : 104064
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 114408,
+            "uri" : "Chad.bin"
+        }
+    ]
+}
