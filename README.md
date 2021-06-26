@@ -1,2 +1,2 @@
 # BlenderModels
-Blender models.
+Blender models in Blender and glTF2 format.
