@@ -2,11 +2,17 @@
 Blender models in Blender and glTF 2 format.
 
 ![portal image](RenderedPortal.png)
-This one is:
+Files:
 - Portal.blend
 - Portal.glb
 - PortalWithBackground.glb
 
-Releated tutorials:
-https://www.youtube.com/watch?v=A2Wfl4pyZe0
+Based on tutorial: https://www.youtube.com/watch?v=A2Wfl4pyZe0
 
+
+![portal image](RenderedPortal.png)
+Files
+- Portal.blend
+- Portal.glb
+- PortalWithBackground.glb
+Based on tutorial: https://www.youtube.com/watch?v=AMR7uW-Vrd4
