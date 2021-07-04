@@ -10,9 +10,8 @@ Files:
 Based on tutorial: https://www.youtube.com/watch?v=A2Wfl4pyZe0
 
 
-![portal image](RenderedPortal.png)
+![portal image](RenderedOxygenContainer.png)
 Files
-- Portal.blend
-- Portal.glb
-- PortalWithBackground.glb
+- OxygenContainer.blend
+- OxygenContainer.glb
 Based on tutorial: https://www.youtube.com/watch?v=AMR7uW-Vrd4
