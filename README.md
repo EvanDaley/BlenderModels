@@ -25,3 +25,23 @@ Based on tutorial: https://www.youtube.com/watch?v=AMR7uW-Vrd4
 Files:
 - OxygenContainer.blend
 - OxygenContainer.glb
+
+### Hexagons Red
+
+![hexagons](RenderImages/Frame30_HDRI_Only_Red.png)
+
+### Hexagons Blue
+
+![hexagons](RenderImages/Blue.png)
+
+### Workstation
+
+![hexagons](RenderImages/003_Containers.png)
+
+### Docker Whale - Attempt 1
+
+![hexagons](RenderImages/Whale4.png)
+
+### Docker Whale - Attempt 2
+
+![hexagons](RenderImages/Whale5_lol.png)
