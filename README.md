@@ -7,6 +7,14 @@ A lot of the models are things that I created when following tutorials on YouTub
 
 Some of my favorite models are:
 
+### Workstation
+
+![hexagons](RenderImages/003_Containers.png)
+
+### Hexagons Blue
+
+![hexagons](RenderImages/Blue.png)
+
 ### Portal
 
 ![portal image](RenderedPortal.png)
@@ -29,14 +37,6 @@ Files:
 ### Hexagons Red
 
 ![hexagons](RenderImages/Frame30_HDRI_Only_Red.png)
-
-### Hexagons Blue
-
-![hexagons](RenderImages/Blue.png)
-
-### Workstation
-
-![hexagons](RenderImages/003_Containers.png)
 
 ### Docker Whale - Attempt 1
 
