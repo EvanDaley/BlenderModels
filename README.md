@@ -1,5 +1,5 @@
 # BlenderModels
-Blender models in Blender and glTF 2 format.
+Blender models in Blender and glTF 2 format, along with hdri files and render output.
 
 Mainly this just serves as a holding area because I'm constantly moving models between computers. This includes a bunch of unfinished models and some render output that I used for my portfolio site. Theres lots of garbage and fluff as well. When this gets too bloated, I'll take my favorite stuff and move it into a new repo and retire this one. 
 
